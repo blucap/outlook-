@@ -1,4 +1,4 @@
-# This vab script shows how you can use Outlook to manage outgoing emails
+# This VBA (for Outlook) script shows how you can use Outlook to manage outgoing emails
 
 - It challenges the sender when sending to multiple receipients and lists
 - It allows a sender to categorise an email as delayed, which then will send the email the next working day
